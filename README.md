@@ -31,6 +31,8 @@ My Trading Journal allows registered users to maintain their own personal tradin
 
 ## Application Interface
 
+![My Trading Journal Dashboard](trading-journal-dashboard.png)
+
 The main dashboard displays the user's recorded stock transactions, including:
 
 - Stock name
